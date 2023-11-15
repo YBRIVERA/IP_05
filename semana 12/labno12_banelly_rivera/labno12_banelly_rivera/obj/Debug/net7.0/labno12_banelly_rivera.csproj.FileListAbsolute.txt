@@ -1,0 +1,15 @@
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/bin/Debug/net7.0/labno12_banelly_rivera
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/bin/Debug/net7.0/labno12_banelly_rivera.deps.json
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/bin/Debug/net7.0/labno12_banelly_rivera.runtimeconfig.json
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/bin/Debug/net7.0/labno12_banelly_rivera.dll
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/bin/Debug/net7.0/labno12_banelly_rivera.pdb
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/obj/Debug/net7.0/labno12_banelly_rivera.csproj.AssemblyReference.cache
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/obj/Debug/net7.0/labno12_banelly_rivera.GeneratedMSBuildEditorConfig.editorconfig
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/obj/Debug/net7.0/labno12_banelly_rivera.AssemblyInfoInputs.cache
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/obj/Debug/net7.0/labno12_banelly_rivera.AssemblyInfo.cs
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/obj/Debug/net7.0/labno12_banelly_rivera.csproj.CoreCompileInputs.cache
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/obj/Debug/net7.0/labno12_banelly_rivera.dll
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/obj/Debug/net7.0/refint/labno12_banelly_rivera.dll
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/obj/Debug/net7.0/labno12_banelly_rivera.pdb
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/obj/Debug/net7.0/labno12_banelly_rivera.genruntimeconfig.cache
+/Users/banellyrivera/Downloads/labno12_banelly_rivera/labno12_banelly_rivera/obj/Debug/net7.0/ref/labno12_banelly_rivera.dll
