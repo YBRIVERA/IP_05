@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\obj\Debug\net6.0\A1_BanellyRivera_1253123.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\obj\Debug\net6.0\A1_BanellyRivera_1253123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\obj\Debug\net6.0\A1_BanellyRivera_1253123.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\obj\Debug\net6.0\A1_BanellyRivera_1253123.AssemblyInfo.cs
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\obj\Debug\net6.0\A1_BanellyRivera_1253123.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\bin\Debug\net6.0\A1_BanellyRivera_1253123.exe
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\bin\Debug\net6.0\A1_BanellyRivera_1253123.deps.json
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\bin\Debug\net6.0\A1_BanellyRivera_1253123.runtimeconfig.json
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\bin\Debug\net6.0\A1_BanellyRivera_1253123.dll
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\bin\Debug\net6.0\A1_BanellyRivera_1253123.pdb
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\obj\Debug\net6.0\A1_BanellyRivera_1253123.dll
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\obj\Debug\net6.0\refint\A1_BanellyRivera_1253123.dll
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\obj\Debug\net6.0\A1_BanellyRivera_1253123.pdb
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\obj\Debug\net6.0\A1_BanellyRivera_1253123.genruntimeconfig.cache
+C:\Users\Estudiante\Downloads\A1_BanellyRivera_1253123\obj\Debug\net6.0\ref\A1_BanellyRivera_1253123.dll
